@@ -1,0 +1,22 @@
+[
+  {
+    "company": "OLR",
+    "role": "Xstore Technical Consultant",
+    "startDate": "2023/08",
+    "endDate": "Present",
+	"description": [
+	      "Worked on Xstore OPChain and DocBuilder frameworks.",
+	      "Enhanced transaction workflows and improved POS performance by 20%."
+	    ]
+  },
+  {
+    "company": "MS Stores",
+    "role": "Software Developer Intern",
+    "startDate": "2023/01",
+    "endDate": "2023/07",
+	"description": [
+	      "Developed reporting modules using Spring and Oracle DB.",
+	      "Improved database query efficiency and reduced load time."
+	    ]
+  }
+]
